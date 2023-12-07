@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/build-DnD5e-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/*.idx
