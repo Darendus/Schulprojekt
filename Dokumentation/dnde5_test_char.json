@@ -77,12 +77,13 @@
     "general" : {
       "backpack": {
         "item_1": {
-			"name": "",
-			"weight": "",
-			"attunement": "",
-			"value": 0,
-			"type": "",
-			"description": ""
+          "name": "",
+          "weight": "",
+          "attunement": "",
+          "value": 0,
+          "type": "",
+          "description": ""
+          }
       }
     }
   }
