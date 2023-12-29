@@ -1,5 +1,5 @@
 {
-  "nameChar": "Charaktername",
+  "nameChar": "",
   "maxHealth": 0,
   "currentHealth": 0,
   "classLevels": {
@@ -53,17 +53,30 @@
     "size": "",
     "hair_colour": "",
     "eye_colour": "",
-    "height": 0.00,
+    "height": 0,
     "weight": 0,
     "age": 0
   },
   "inventory": {
     "equipment": {
-      "weapons": [
-        0,
-        1,
-        2
-      ],
+      "weapons": {
+        "weapon_1": {
+          "name": "",
+          "baseDmg": "",
+          "dmg_type": "",
+          "weight": 0,
+          "type": ["", ""],
+          "properties": ["", ""]
+        },
+        "weapon_2": {
+          "name": "",
+          "baseDmg": "",
+          "dmg_type": "",
+          "weight": 0,
+          "type": ["", ""],
+          "properties": ["", ""]
+        }
+      },
       "armour": {
         "name": "",
         "type": 0,
@@ -85,6 +98,43 @@
           "description": ""
           }
       }
+    }
+  },
+  "magic": {
+    "lvl1_spellslot": 0,
+    "lvl2_spellslot": 0,
+    "lvl3_spellslot": 0,
+    "lvl4_spellslot": 0,
+    "lvl5_spellslot": 0,
+    "lvl6_spellslot": 0,
+    "lvl7_spellslot": 0,
+    "lvl8_spellslot": 0,
+    "lvl9_spellslot": 0
+  },
+  "used_magic": {
+    "lvl1_spellslot": 0,
+    "lvl2_spellslot": 0,
+    "lvl3_spellslot": 0,
+    "lvl4_spellslot": 0,
+    "lvl5_spellslot": 0,
+    "lvl6_spellslot": 0,
+    "lvl7_spellslot": 0,
+    "lvl8_spellslot": 0,
+    "lvl9_spellslot": 0
+  },
+  "spells": {
+    "{spellname}": {
+      "level": 0,
+      "school": "",
+      "range": "",
+      "components": ["", "", ""],
+      "duration": "",
+      "cast_time": "",
+      "targets": "",
+      "save": "",
+      "concentration": 0,
+      "ritual": 0
+
     }
   }
 }
