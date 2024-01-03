@@ -18,32 +18,32 @@
     "wizard": 0    
   },
   "abilities": {
-    "strength": 0,
-    "dexterity": 0,
-    "constitution": 0,
-    "intelligence": 0,
-    "wisdom": 0,
-    "charisma": 0    
+    "strength": [0, 0],
+    "dexterity": [0, 0],
+    "constitution": [0, 0],
+    "intelligence": [0, 0],
+    "wisdom": [0, 0],
+    "charisma": [0, 0]    
   },
   "skills": {
-    "acrobatics": 0,
-    "animal_handling": 0,
-    "arcana": 0,
-    "athletics": 0,
-    "deception": 0,
-    "history": 0,
-    "insight": 0,
-    "intimidation": 0,
-    "investigation": 0,
-    "medicine": 0,
-    "nature": 0,
-    "perception": 0,
-    "performance": 0,
-    "persuasion": 0,
-    "religion": 0,
-    "sleight_of_hand": 0,
-    "stealth": 0,
-    "survival": 0
+    "acrobatics": [0, 0, 0],
+    "animal_handling": [0, 0, 0],
+    "arcana": [0, 0, 0],
+    "athletics": [0, 0, 0],
+    "deception": [0, 0, 0],
+    "history": [0, 0, 0],
+    "insight": [0, 0, 0],
+    "intimidation": [0, 0, 0],
+    "investigation": [0, 0, 0],
+    "medicine": [0, 0, 0],
+    "nature": [0, 0, 0],
+    "perception": [0, 0, 0],
+    "performance": [0, 0, 0],
+    "persuasion": [0, 0, 0],
+    "religion": [0, 0, 0],
+    "sleight_of_hand": [0, 0, 0],
+    "stealth": [0, 0, 0],
+    "survival": [0, 0, 0]
   },
   "charDescription": {
     "race": "",
@@ -138,3 +138,7 @@
     }
   }
 }
+
+
+
+
